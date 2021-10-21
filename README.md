@@ -1,6 +1,7 @@
 ## Olá! Eu sou João Bruno Vasconcelos e é um prazer receber você aqui 😉
 - 🧑‍💻 Sou estudante de Desenvolvimento Web na Trybe 
-- ⚽ Apaixonado por futebol
+- ⚽ Amo futebol
+- 👨‍👩‍👦 Apaixonado pela minha família
 
 <div>
   <a href="https://github.com/joaobruno05"> 

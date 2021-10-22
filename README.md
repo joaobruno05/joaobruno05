@@ -1,4 +1,4 @@
-## Olá! Eu sou João Bruno Vasconcelos e é um prazer receber você aqui 😉
+## Olá! Eu sou João Bruno Vasconcelos. Seja Bem Vindo(a) 😉
 - 🧑‍💻 Sou estudante de Desenvolvimento Web na Trybe 
 - 👨‍👩‍👦 Apaixonado pela minha família
 - ⚽ Amo futebol

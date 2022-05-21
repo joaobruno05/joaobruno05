@@ -1,5 +1,6 @@
 ## Olá! Eu sou João Bruno Vasconcelos. Seja Bem Vindo(a) 😉
-- 🧑‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+- 🧑‍💻 Chatbot Developer at [Take Blip](https://www.take.net/)
+- 💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 - 👨‍👩‍👦 Apaixonado pela minha família
 - ⚽ Amo futebol
 

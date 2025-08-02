@@ -1,5 +1,5 @@
 ## Olá! Eu sou João Bruno Vasconcelos. Seja Bem Vindo(a) 😉
-- 🧑‍ Chatbot Developer at [Blip](https://www.take.net/)
+- 🧑‍ Analista de Sistemas | Desenvolvedor Backend
 - 💻 Formado em Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
 - 👨‍👩‍👦 Apaixonado pela minha família
 - ⚽ Amo futebol
